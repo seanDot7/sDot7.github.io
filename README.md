@@ -1,4 +1,4 @@
-sdot7.github.com
+sdot7.github.io
 ================
 
 My website
